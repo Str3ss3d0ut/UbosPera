@@ -28,7 +28,7 @@ for key, val in DEFAULTS.items():
     if key not in st.session_state:
         st.session_state[key] = val
 
-st.set_page_config(page_title="Alpha Engine V58: Institutional Intel", layout="wide")
+st.set_page_config(page_title="💸 John's Experiment: Ubos Pera Edition 💸", layout="wide")
 
 # --- 2. SIDEBAR COMMAND CENTER ---
 with st.sidebar:
