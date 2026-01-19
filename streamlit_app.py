@@ -13,7 +13,7 @@ DEFAULTS = {
     'atr_mult': 1.5,
     'trail_mult': 3.0,
     'regime_mode': "Adaptive (Hybrid)",
-    'universe': "AAPL,MSFT,GOOGL,AMZN,NVDA,TSLA,NFLX,META,AMD,ADBE,LLY,AVGO,COST,CRM,JPM,V,MA,PG,WMT,GE,JNJ,CAH,UNH,ABBV,PEP,KO,MCD,LIN,QCOM",
+    'universe': "AAPL,MSFT,GOOGL,AMZN,NVDA,TSLA,NFLX,META,AMD,ADBE,LLY,AVGO,COST,CRM,JPM,V,MA,PG,WMT,GE,JNJ,CAH,UNH,ABBV,PEP,KO,MCD,LIN,QCOM,MU,ONDS,INTC",
     'vol_target': 15.0,
     'mc_sims': 1000,
     'start_date': datetime(2020, 1, 1).strftime('%Y-%m-%d'),
