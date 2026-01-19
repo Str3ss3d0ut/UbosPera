@@ -158,7 +158,7 @@ s_raw, b_raw, dts, final_picks, ledger, r_trades, last_h, last_adx, active_strat
 )
 
 # --- 4. DASHBOARD UI ---
-st.title("🛡️ Alpha Engine V58: Institutional Intel")
+st.title("💸 John's Experiment: Ubos Pera Edition 💸")
 s_rets = pd.Series(s_raw, index=dts)
 
 if not s_rets.empty:
