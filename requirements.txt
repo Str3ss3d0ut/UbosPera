@@ -2,7 +2,8 @@ streamlit
 pandas
 numpy
 yfinance
-plotly.graph_objects
+curl_cffi
 matplotlib
 scipy
-
+plotly
+requests
